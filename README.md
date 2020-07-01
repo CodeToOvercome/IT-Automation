@@ -1,6 +1,6 @@
 # IT-Automation
 
-During my time with Dialpad, I have worked on various scripts to automate onboarding & offboarding tasks.With their permission I have made them available public for educational purposes and to help other fellow IT colleagues.
+During my time with Dialpad, I have worked on various scripts to automate onboarding & offboarding tasks.With their permission I have made them publicly available for educational purposes and to help other fellow IT colleagues.
 
 ## G-Suite
 
